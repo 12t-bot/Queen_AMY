@@ -4,21 +4,21 @@ const fs = require('fs')
 const { color } = require('./lib/myfunc')
 
 //owner
-global.owner = '2347043759577'
-global.nomerowner = ["2347043759577"]
+global.owner = '254113660118'
+global.nomerowner = ["254113660118"]
 
 // Apikey 
 
-global.skizo = 'David Cyril'
-global.casterix = 'DeeCeeXxx'
+global.skizo = 'king vic'
+global.casterix = 'king vic'
 //watermark 
-global.packname = '*DAVID CYRIL*'
-global.author = 'QUEEN_ANITA-V3'
+global.packname = '*vic*'
+global.author = 'QUEEN_AMY'
 
 // cpanel 
-global.domain = 'https://' // deeceexxx
-global.apikey2 = 'ptlc' // I love anita
-global.capikey2 = 'ptla' // david x anita 
+global.domain = 'https://' // victor
+global.apikey2 = 'ptlc' // I love victor
+global.capikey2 = 'ptla' // victor x amy 
 global.eggsnya = '15' // The id eggs used if the id is 5, just leave it, don't change it
 global.location = '1' // id location
 
@@ -55,29 +55,29 @@ global.rpg = {
 }
 
 //auto functioner
-global.autoTyping = false;                //make true to enable auto typing
-global.autoRecord = false;                //make true to enable auto recording
+global.autoTyping = true;                //make true to enable auto typing
+global.autoRecord = true;                //make true to enable auto recording
 global.autoViewStatus = true;       //make true to view statuses
 global.unavailable = true;     
 //to show your real presence  
-global.available = false;   
+global.available = true;   
 // to show always online  
-global.autoreadmessages = false;   
+global.autoreadmessages = true;   
 ///To always read messages
-global.chatbot = false;
-global.autoreact = false;
+global.chatbot = true;
+global.autoreact = true;
 
-global.welcome = false;
+global.welcome = true;
 
 global.prefix = '.';
 
-global.autobio = false;
+global.autoglobaltrue;
 
-global.antilink = false;
+global.antilink = true;
 
-global.antilinkkick = false;
+global.antilinkkick = true;
 
-global.antilinkwarn = false;
+global.antilinkwarn = true;
 
 //_____________//
 // Don't change it
