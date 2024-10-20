@@ -1,12 +1,12 @@
-## Queen_Anita-V3
+## Queen_Amy
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center"> 
-<u>⚡ A simple WhatsApp User Bot Created David Cyril ⚡</u>
+<u>⚡ A simple WhatsApp User Bot Created by victor ⚡</u>
 </p>
 <p align="center">
 <img src="https://api.shannmoderz.xyz/server/file/JhnZNPg59LpUxYf.jpg"/>       
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ QUEEN-+ANITA-+V3★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DAVID+CYRIL;RELEASED+DATE+22%2F8%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ QUEEN-+ANITA-+V3★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+vic+.;RELEASED+DATE+22%2F8%2F2024." alt="Typing SVG" /></a>
  </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-DAVID_CYRIL-red.svg?style=for-the-badge&logo=github"></a>
@@ -20,7 +20,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 #
 
-## Queen_Anita-V3 Deployment Methods
+## Queen_Amy Deployment Methods
 ---
 1.  **Fork Repo First, [`CLICK HERE`](https://github.com/DeeCeeXxx/Queen_Anita-V3/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
 2.  **Get `SESSION ID` ON [`REPLIT`](https://replit.com/@deeceexxx01/DavidCyril-X-pair-1)** 
@@ -55,20 +55,20 @@
 <br>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-* [🧑‍💻 Follow Queen_Anita-V3 Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L)
+* [🧑‍💻 Follow Queen_Amy Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L)
 
-* [🧑‍💻 Join Queen_Anita-V3 Telegram Group 🧑‍💻](https://t.me/dctech)
+ [🧑‍💻 
 
-* [✅ Join Public Group ⚡](https://chat.whatsapp.com/KLu7a2r4bc4JFV8s5epvsF)
+ [✅
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
 
-- *Queen_Anita-V3 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *Queen_Amy is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use Queen_Anita-V3 at your own risk by keeping this warning in mind.*
   
-  #### ```DAVID CYRIL PROFILE VIEWS 🧚```
+  #### ```queen amy PROFILE VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/DeeCeeXxx/count.svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
