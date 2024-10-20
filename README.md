@@ -12,7 +12,7 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-DAVID_CYRIL-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/DeeCeeXxx/Queen_Anita-V3/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DeeCeeXxx/Queen_Anita-V3?color=blue&style=flat-square"></a>
+<a href="https://github.com/12t-bot/Queen_AMY/blob/main/README.md"><img title="Stars" src="https://img.shields.io/github/stars/DeeCeeXxx/Queen_Anita-V3?color=blue&style=flat-square"></a>
 <a href="https://github.com/DeeCeeXxx/Queen_Anita-V3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DeeCeeXxx/Queen_Anita-V3?color=yellow&style=flat-square"></a>
 <a href="https://github.com/DeeCeeXxx/Queen_Anita-V3/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DeeCeeXxx/Queen_Anita-V3?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/DeeCeeXxx/Queen_Anita-V3/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-red.svg"></a>&nbsp;&nbsp;
