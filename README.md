@@ -1,12 +1,12 @@
 ## Queen_Amy
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+   <a><img src='https://i.imgur.com/arHOrNQ.jpeg'/></a><a><img src=/></a>
 <p align="center"> 
 <u>⚡ A simple WhatsApp User Bot Created by victor ⚡</u>
 </p>
 <p align="center">
 <img src="https://api.shannmoderz.xyz/server/file/JhnZNPg59LpUxYf.jpg"/>       
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ QUEEN-+ANITA-+V3★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+vic+.;RELEASED+DATE+22%2F8%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ QUEEN-+AMY-+V3★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+vic+.;RELEASED+DATE+22%2F8%2F2024." alt="Typing SVG" /></a>
  </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-DAVID_CYRIL-red.svg?style=for-the-badge&logo=github"></a>
