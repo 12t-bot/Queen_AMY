@@ -62,5 +62,5 @@
   
 - *Queen_Amy is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Queen_Anita-V3 at your own risk by keeping this warning in mind.*
+- *Use Queen_Amy at your own risk by keeping this warning in mind.*
   
